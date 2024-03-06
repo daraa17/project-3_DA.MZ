@@ -31,5 +31,6 @@ The project utilizes data from the Electric & Alternative Fuel Charging Stations
 
 ## References
 - Data Source: Electric & Alternative Fuel Charging Stations 2023 (https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations)
+- us-states JSON: https://eric.clst.org/tech/usgeojson/
 - Libraries Used: Matplotlib, NumPy, Pandas, Seaborn
 
